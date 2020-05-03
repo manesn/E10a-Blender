@@ -19,3 +19,6 @@ When you have completed the fourth episode of the tutorial, in Blender, choose F
 Update the LICENSE and README.md and then commit and push your changes. Check your Github account; your repository should have three files: LICENSE, README.md, and Man.glb
 
 Turn in the URL to your repository on Canvas.
+
+
+# Done. God do I hate how he turned out
